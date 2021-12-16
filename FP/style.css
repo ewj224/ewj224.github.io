@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(131,161,205);
+}
+
+h1 {
+    text-align: center;
+
+}
+p {
+    background-color: rgba(210,221,233);
+    border: 0.5rem outset rgba(128,166,206);
+    outline: .5rem outset rgba(104,149,197);
+    padding: 30px 10px 30px 10px;
+    text-align: center;
+}
+
+div.relative{
+    position: relative;
+    top: -400px;
+    right: -600px;
+    width:800px;
+}
+
+img {
+    position: relative; 
+    top: 100px;
+    left: 100px;
+    width: 300px;
+    height: 700px;
+
+}
+
+.button {
+    position: relative;
+    bottom: 625px;
+    font-size: 25px;
+    left: 750px;
+    color: #101535;
+    border-radius: 50px;
+    background-color: #5A7FC0;
+}

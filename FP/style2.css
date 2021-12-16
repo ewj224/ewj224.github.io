@@ -1,0 +1,21 @@
+img {
+    background-size: contain;
+    width: 100%;
+    position: absolute;
+    top:0px;
+}
+
+body {
+    background-color: #101535;
+}
+
+button{
+    background-color: #5A7FC0;
+    position: relative;
+    left: 50px;
+    top: 25px;
+    color: #101535;
+    font-size: 60px;
+    border-radius: 12px;
+    border-color: #5A7FC0;
+}
